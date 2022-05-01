@@ -1,0 +1,54 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\.."
+		},
+		{
+			"path": "..\\..\\..\\..\\Ex2"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\test"
+		},
+		{
+			"path": "..\\..\\..\\..\\..\\..\\test\\Ex2C"
+		},
+		{
+			"path": "..\\..\\..\\Ex3"
+		},
+		{
+			"path": "..\\..\\..\\Ex3\\check"
+		},
+		{
+			"path": "..\\..\\..\\Ex3\\check\\Ex3C"
+		},
+		{
+			"path": "..\\..\\..\\Network"
+		},
+		{
+			"path": "..\\..\\..\\Network\\NetworkEx4"
+		},
+		{
+			"path": "..\\..\\..\\Network\\NetworkEx4\\WpdPack\\Include"
+		},
+		{
+			"path": "..\\..\\..\\graph"
+		},
+		{
+			"path": "..\\.."
+		},
+		{
+			"path": "..\\..\\..\\Network\\shared\\C++\\notebook-a-main\\after edit\\Matrix\\matrix-calculator-b-main"
+		},
+		{
+			"path": "..\\..\\..\\Network\\shared\\C++\\notebook-a-main\\after edit\\notebook"
+		},
+		{
+			"path": "."
+		}
+	],
+	"settings": {
+		"files.associations": {
+			"stdio.h": "c"
+		}
+	}
+}
